@@ -1,0 +1,7 @@
+#Robocode Robot Team
+#Sun Aug 29 19:36:16 BRT 2021
+team.author.name=
+team.version=1.0
+team.members=thebravessnicker.TheBravesSnickers*,thebravessnicker.TheBravesSnickersDroid*,thebravessnicker.TheBravesSnickersDroid*
+team.description=Time para disciplina de IA
+robocode.version=1.9.4.2
